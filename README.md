@@ -1,1 +1,2 @@
-# dojos_and_ninjas_p2
+# Dojos and Ninjas: Part 2
+
